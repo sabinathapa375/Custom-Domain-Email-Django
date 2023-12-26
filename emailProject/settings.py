@@ -131,6 +131,6 @@ EMAIL_PORT = 465
 EMAIL_USE_TLS = False
 EMAIL_USE_SSL = True
 EMAIL_HOST_USER =  'sabina.thapa@greentick.com.np'
-EMAIL_HOST_PASSWORD =  'Sabina@6676'
+EMAIL_HOST_PASSWORD =  'Sgfdghsfsdhdsghd78455shgdjsg'
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 
